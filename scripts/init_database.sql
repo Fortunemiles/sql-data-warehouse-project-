@@ -12,9 +12,9 @@ Script Purpose:
 USE Master;
 GO 
 
+--- create 'datawarehouse' database    
 CREATE DATABASE DataWarehouse;
 
---- create 'datawarehouse' database
 USE DataWarehouse;
 
 --- create schema
