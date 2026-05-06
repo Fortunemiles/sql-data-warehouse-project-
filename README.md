@@ -49,4 +49,4 @@ to use, modify, and share this project with proper attribution.
 ## 🌟 About Me
 
 Hi there! I'm **Ikechukwu Fortune**, An IT professional (Data Analyst)I Work with data and find hidden meanings to numbers Which helps businesses thrive and 
-make better decisions 
+make better decisions.
