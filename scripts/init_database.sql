@@ -10,10 +10,11 @@ Script Purpose:
 */
 
 USE Master;
-GO 
+GO
 
 --- create 'datawarehouse' database    
 CREATE DATABASE DataWarehouse;
+GO
 
 USE DataWarehouse;
 
